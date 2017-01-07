@@ -63,5 +63,6 @@ Familienstand: ledig
 | MS Word 2010 | Expertenkenntnisse
 | MS Excel 2010 | Grundkenntnisse |
 | MS Powerpoint 2010 | Grundkenntnisse |
+| Markdown | Grundkenntnisse |
 
 [UP]: https://www.uni-potsdam.de
