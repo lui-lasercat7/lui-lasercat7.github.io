@@ -23,7 +23,7 @@ Familienstand: ledig
 ## Berufserfahrung
 
 | Zeitraum | Tätigkeit |
-|-|-|
+|---|---|
 | *2014 - heute* | **Aushilfskraft bei [Hugendubel](http://www.hugendubel.de/de/)** |
 | | Verkauf von Büchern und anderen Medien, Kundenberatung und -bedienung, Bibliographieren und Recherchieren, Beschaffung von Kundenbestellungen, Sortimentsgestaltung |
 | *2010 - 2016* | **Aushilfskraft bei Eismanufaktur Potsdam** |
@@ -34,7 +34,7 @@ Familienstand: ledig
 ## Ausbildung
 
 | Zeitraum | Tätigkeit |
-|-|-|
+|---|---|
 | *2010 - 2015* | **B.A. Germanistik und Spanische Philologie, [Universität Potsdam][UP]** |
 | *2009 - 2010* | **Spanische Philologie und Linguistik, [Universität Potsdam][UP]** |
 | *2008 - 2009* | **Französische Philologie und Linguistik, [Universität Potsdam][UP]** |
@@ -43,7 +43,7 @@ Familienstand: ledig
 ### Sprachen
 
 | Sprache | Kenntnisstand |
-|-|-|
+|---|---|
 | Deutsch | Muttersprache |
 | Englisch | Sehr gute Kenntnisse |
 | Spanisch | Sehr gute Kenntnisse |
@@ -59,7 +59,7 @@ Familienstand: ledig
 ### Kenntnisse
 
 | EDV | Kenntnisstand
-|-|-|
+|---|---|
 | MS Word 2010 | Expertenkenntnisse
 | MS Excel 2010 | Grundkenntnisse |
 | MS Powerpoint 2010 | Grundkenntnisse |
