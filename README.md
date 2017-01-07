@@ -2,6 +2,8 @@
 
 Luise Maron
 
+![mein Passfoto](Passfoto.jpg)
+
 Lennéstraße 19
 
 14469 Potsdam
