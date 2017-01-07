@@ -8,8 +8,6 @@ Lennéstraße 19
 
 14469 Potsdam
 
-Telefon: +49 173 247 9494
-
 E-Mail: luisemaron@googlemail.com
 
 Geburtsort & -datum: Potsdam
@@ -17,10 +15,6 @@ Geburtsort & -datum: Potsdam
 Staatsangehörigkeit: deutsch
 
 Familienstand: ledig
-
-#### Banana Yoshimoto:
-
-> Once you've recognized your own limits, you've raised yourself to a higher level of being, since you're closer to the real you.
 
 ## Berufserfahrung
 
