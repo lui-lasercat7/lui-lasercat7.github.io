@@ -50,6 +50,8 @@
   <tr>
     <td></td>
     <td>Delegation von Teams mit mehr als fünf Mitarbeitern, Koordination von Veranstaltungsabläufen, Organisation und Nachbereitung vor Ort</td>
+   </tr>
+   </table>
 
   <h2>Ausbildung</h2>
   <hr>
@@ -59,7 +61,6 @@
       <th>Zeitraum</th>
       <th>Tätigkeit</th>
     </tr>
-  <br>
     <tr>
       <td>2010-2015</td>
       <td>B.A. Germanistik und Spanische Philologie, <a href="https://www.uni-potsdam.de/">Universität Potsdam</a></td>
@@ -75,6 +76,8 @@
     <tr>
       <td>2001-2008</td>
       <td>Allgemeine Hochschulreife, <a href="https://www.wolkenberg-gymnasium.de/">Wolkenberg Gymnasium Michendorf</a></td>
+     </tr>
+     </table>
 
   <h3>Sprachen</h3>
 
@@ -83,7 +86,6 @@
       <th>Sprache</th>
       <th>Kenntnisstand</th>
     </tr>
-  <br>
     <tr>
       <td>Deutsch</td>
       <td>Muttersprache</td>
@@ -107,6 +109,8 @@
     <tr>
       <td>Latein</td>
       <td>kleines Latinum</td>
+     </tr>
+     </table>
 
   <h3>Qualifikationen</h3>
 
@@ -121,7 +125,6 @@
       <th>EDV</th>
       <th>Kenntnisstand</th>
     </tr>
-  <br>
    <tr>
      <td>MS Word 2010</td>
      <td>Gute Kenntnisse</td>
@@ -137,6 +140,8 @@
    <tr>
      <td>Markdown</td>
      <td>Grundkenntnisse</td>
+    </tr>
+    </table>
   
 </body>
 </html>
