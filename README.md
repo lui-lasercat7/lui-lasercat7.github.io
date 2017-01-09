@@ -24,7 +24,7 @@ Familienstand: ledig
 | | Verkauf von Büchern und anderen Medien, Kundenberatung und -bedienung, Bibliographieren und Recherchieren, Beschaffung von Kundenbestellungen, Sortimentsgestaltung |
 | *2010 - 2016* | **Aushilfskraft bei Eismanufaktur Potsdam** |
 | | Tresen- und Servicekraft |
-| *2007 - 2014* | **Chefhostess bei Heiden & Wo-Men Veranstaltungsservice** |
+| *2007 - 2014* | **Hostess & Chefhostess bei Heiden & Wo-Men Veranstaltungsservice** |
 | | Delegation von Teams mit mehr als fünf Mitarbeitern, Koordination von Veranstaltungsabläufen, Organisation und Nachbereitung vor Ort |
 
 ## Ausbildung
