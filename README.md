@@ -10,7 +10,7 @@ Lennéstraße 19
 
 E-Mail: luisemaron@googlemail.com
 
-Geburtsort & -datum: Potsdam
+Geburtsort & -datum: Potsdam, den 07.04.1989
 
 Staatsangehörigkeit: deutsch
 
