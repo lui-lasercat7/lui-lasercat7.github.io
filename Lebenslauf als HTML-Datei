@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Lebenslauf</h1>
+
+Luise Maron
+
+<img src="Passfoto.jpg" width="150" height="224">
+
+Lennéstraße 19
+
+14469 Potsdam
+
+E-Mail: luisemaron@googlemail.com
+
+Geburtsort & -datum: Potsdam, den 07. April 1989
+
+Staatsangehörigkeit: deutsch
+
+Familienstand: ledig
+
+<h2>Berufserfahrung</h2>
+<hr>
+
+<table>
+  <tr>
+    <th>Zeitraum</th>
+    <th>Tätigkeit</th>
+  </tr>
+  <tr>
+    <td>2014-heute</td>
+    <td>Aushilfskraft bei <a href="http://www.hugendubel.de/de/">Hugendubel</a></td>
+  <tr>
+    <td></td>
+    <td>Verkauf von Büchern und anderen Medien, Kundenberatung und -bedienung, Bibliographieren und Recherchieren, Beschaffung von Kundenbestellungen, Sortimentsgestaltung</td>
+  </tr>
+  <tr>
+    <td>2010-2012</td>
+    <td>Aushilfskraft bei Eismanufaktur Potsdam</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Tresen- und Servicekraft</td>
+  </tr>
+  <tr>
+    <td>2007-2014</td>
+    <td>Hostess & Chefhostess bei Heiden & Wo-Men Veranstaltungsservice</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Delegation von Teams mit mehr als fünf Mitarbeitern, Koordination von Veranstaltungsabläufen, Organisation und Nachbereitung vor Ort</td>
+
+  <h2>Ausbildung</h2>
+  <hr>
+
+  <table>
+    <tr>
+      <th>Zeitraum</th>
+      <th>Tätigkeit</th>
+    </tr>
+  <br>
+    <tr>
+      <td>2010-2015</td>
+      <td>B.A. Germanistik und Spanische Philologie, <a href="https://www.uni-potsdam.de/">Universität Potsdam</a></td>
+    </tr>
+    <tr>
+      <td>2009-2010</td>
+      <td>Spanische Philologie und Linguistik, <a href="https://www.uni-potsdam.de/">Universität Potsdam</a></td>
+    </tr>
+    <tr>
+      <td>2008-2009</td>
+      <td>Französische Philologie und Linguistik, <a href="https://www.uni-potsdam.de/">Universität Potsdam</a></td>
+    </tr>
+    <tr>
+      <td>2001-2008</td>
+      <td>Allgemeine Hochschulreife, <a href="https://www.wolkenberg-gymnasium.de/">Wolkenberg Gymnasium Michendorf</a></td>
+
+  <h3>Sprachen</h3>
+
+  <table>
+    <tr>
+      <th>Sprache</th>
+      <th>Kenntnisstand</th>
+    </tr>
+  <br>
+    <tr>
+      <td>Deutsch</td>
+      <td>Muttersprache</td>
+    </tr>
+    <tr>
+      <td>Englisch</td>
+      <td>Sehr gute Kenntnisse</td>
+    </tr>
+    <tr>
+      <td>Spanisch</td>
+      <td>Sehr gute Kenntnisse</td>
+    </tr>
+    <tr>
+      <td>Französisch</td>
+      <td>Grundkenntnisse</td>
+    </tr>
+    <tr>
+      <td>Portugiesisch</td>
+      <td>Grundkenntnisse</td>
+    </tr>
+    <tr>
+      <td>Latein</td>
+      <td>kleines Latinum</td>
+
+  <h3>Qualifikationen</h3>
+
+  <p>Gitarre (Seit 2005)
+  <br>
+  <p>Chorgesang (Seit 2001)
+
+  <h3>Kenntnisse</h3>
+
+  <table>
+    <tr>
+      <th>EDV</th>
+      <th>Kenntnisstand</th>
+    </tr>
+  <br>
+   <tr>
+     <td>MS Word 2010</td>
+     <td>Gute Kenntnisse</td>
+   </tr>
+   <tr>
+     <td>MS Excel 2010</td>
+     <td>Grundkenntnisse</td>
+   </tr>
+   <tr>
+     <td>MS Powerpoint 2010</td>
+     <td>Grundkenntnisse</td>
+   </tr>
+   <tr>
+     <td>Markdown</td>
+     <td>Grundkenntnisse</td>
