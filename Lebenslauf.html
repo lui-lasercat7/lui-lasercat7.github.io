@@ -1,142 +1,213 @@
 <!DOCTYPE html>
 <html>
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
+    <style>
+        *,
+        body {
+            margin: 0;
+            box-sizing: border-box;
+            font-family: "Lato", sans-serif;
+            color: #333;
+        }
+
+        table {
+            border-spacing: 0;
+            border-collapse: separate;
+        }
+
+        .container {
+            max-width: 900px;
+            background-color: white;
+            padding: 100px 100px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            margin: 50px auto;
+        }
+
+        body {
+            background-color: grey;
+        }
+
+        h1 {
+            text-align: left;
+            color: #666;
+            margin-bottom: 1em;
+        }
+
+        h2 {
+            text-align: left;
+            color: #777;
+            margin-bottom: 0.5em;
+            margin-top: 1em;
+            clear: both;
+        }
+
+        h3 {
+            text-align: left;
+            color: #888;
+            margin-bottom: 0.5em;
+            margin-top: 1em;
+        }
+
+        .experience tr td:first-child {
+            width: 120px;
+            font-weight: bold;
+            vertical-align: top;
+        }
+
+        .experience td {
+            border-top: 1px solid grey;
+            padding: 0.5em 0;
+        }
+
+        table.experience {
+            width: 100%;
+        }
+
+        .experience ul {
+            padding-left: 30px;
+        }
+
+        dl.qualifications dd {
+          padding-left: 120px;
+        }
+
+        #headshot {
+            float: right;
+            width: 140px;
+            height: 190px;
+        }
+
+        dl dt {
+            float: left;
+            text-align: right;
+            padding-right: 3pt;
+        }
+    </style>
+
+
+</head>
+
 <body>
+    <div class="container">
 
-<h1 style="font-size:200%;"><h1 style="font-family:verdana;">Lebenslauf</h1>
-<br>
-<p>Luise Maron</p>
-<br>
-<img src="Passfoto.jpg" width="150" height="224">
-<br>
-<p>Lennéstraße 19</p>
-<p>14469 Potsdam</p>
-<p>E-Mail: luisemaron@googlemail.com</p>
-<p>Geburtsort & -datum: Potsdam, den 07. April 1989</p>
-<p>Staatsangehörigkeit: deutsch</p>
-<p>Familienstand: ledig</p>
-<br>
-<h2 style="color:blue;"><h2 style="font-family:verdana;">Berufserfahrung</h2>
-<hr>
+        <h1>Lebenslauf</h1>
+        <img src="Passfoto_2.jpg" alt="Luise Maron" id="headshot">
+        <p><strong>Luise Maron</strong></p>
+        <p>Lennéstraße 19<br> 14469 Potsdam</p>
+        <br>
+        <dl>
+            <dt>E-Mail:</dt>
+            <dd>luisemaron@googlemail.com</dd>
+            <dt>Geburtsort &amp; -datum:</dt>
+            <dd>Potsdam, den 07. April 1989</dd>
+            <dt>Staatsangehörigkeit:</dt>
+            <dd>deutsch</dd>
+            <dt>Familienstand:</dt>
+            <dd>ledig</dd>
+        </dl>
+        <h2>Berufserfahrung</h2>
 
-<table>
-  <tr>
-    <th>Zeitraum<th style="text-align:center;"></th>
-    <th>Tätigkeit<th style="text-align:center;"></th>
-  </tr>
-  <tr>
-    <td><i>2014-heute</i></td>
-    <td>Aushilfskraft bei <a href="http://www.hugendubel.de/de/">Hugendubel</a></td>
-  <tr>
-    <td></td>
-    <td>Verkauf von Büchern und anderen Medien, Kundenberatung und -bedienung, Bibliographieren und Recherchieren, Beschaffung von Kundenbestellungen, Sortimentsgestaltung</td>
-  </tr>
-  <tr>
-    <td><i>2010-2012</i></td>
-    <td>Aushilfskraft bei Eismanufaktur Potsdam</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Tresen- und Servicekraft</td>
-  </tr>
-  <tr>
-    <td><i>2007-2014</i></td>
-    <td>Hostess & Chefhostess bei Heiden & Wo-Men Veranstaltungsservice</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Delegation von Teams mit mehr als fünf Mitarbeitern, Koordination von Veranstaltungsabläufen, Organisation und Nachbereitung vor Ort</td>
-   </tr>
-   </table>
+        <table class="experience">
+            <tr>
+                <td>2014 &ndash; heute</td>
+                <td>
+                    <strong>Aushilfskraft bei <a href="http://www.hugendubel.de/de/" target="_blank">Hugendubel</a></strong>
+                    <ul>
+                        <li>Verkauf von Büchern und anderen Medien</li>
+                        <li>Kundenberatung und -bedienung</li>
+                        <li>Bibliographieren und Recherchieren</li>
+                        <li>Beschaffung von Kundenbestellungen</li>
+                        <li>Sortimentsgestaltung</li>
+                        <li>Schreiben von Buchempfehlungen</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>2010 &ndash; 2012</td>
+                <td>
+                    <strong>Aushilfskraft bei Eismanufaktur Potsdam</strong>
+                    <ul>
+                        <li>Tresen- und Servicekraft</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>2008 &ndash; 2014</td>
+                <td>
+                    <strong>Hostess &amp; Chefhostess bei Paffrath Events, Heiden &amp; Wo-Men Veranstaltungsservice, Who wants it</strong>
+                    <ul>
+                        <li>Delegation von Teams mit mehr als fünf Mitarbeitern</li>
+                        <li>Koordination von Veranstaltungsabläufen</li>
+                        <li>Organisation und Nachbereitung vor Ort</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
 
-  <h2 style="color:blue;"><h2 style="font-family:verdana;">Ausbildung</h2>
-  <hr>
+        <h2>Ausbildung</h2>
 
-  <table>
-    <tr>
-      <th>Zeitraum</th>
-      <th>Tätigkeit</th>
-    </tr>
-    <tr>
-      <td>2010-2015</td>
-      <td>B.A. Germanistik und Spanische Philologie, <a href="https://www.uni-potsdam.de/">Universität Potsdam</a></td>
-    </tr>
-    <tr>
-      <td>2009-2010</td>
-      <td>Spanische Philologie und Linguistik, <a href="https://www.uni-potsdam.de/">Universität Potsdam</a></td>
-    </tr>
-    <tr>
-      <td>2008-2009</td>
-      <td>Französische Philologie und Linguistik, <a href="https://www.uni-potsdam.de/">Universität Potsdam</a></td>
-    </tr>
-    <tr>
-      <td>2001-2008</td>
-      <td>Allgemeine Hochschulreife, <a href="https://www.wolkenberg-gymnasium.de/">Wolkenberg Gymnasium Michendorf</a></td>
-     </tr>
-     </table>
+        <table class="experience">
+            <tr>
+                <td>2010 &ndash; 2015</td>
+                <td>
+                    <strong>B.A. Germanistik und Spanische Philologie, <a href="https://www.uni-potsdam.de/" target="_blank">Universität Potsdam</a></strong>
+                </td>
+            </tr>
+            <tr>
+                <td>2009 &ndash; 2010</td>
+                <td>Spanische Philologie und Linguistik, <a href="https://www.uni-potsdam.de/" target="_blank">Universität Potsdam</a></td>
+            </tr>
+            <tr>
+                <td>2008 &ndash; 2009</td>
+                <td>Französische Philologie und Linguistik, <a href="https://www.uni-potsdam.de/" target="_blank">Universität Potsdam</a></td>
+            </tr>
+            <tr>
+                <td>2001 &ndash; 2008</td>
+                <td>Allgemeine Hochschulreife, <a href="https://www.wolkenberg-gymnasium.de/" target="_blank">Wolkenberg Gymnasium Michendorf</a></td>
+            </tr>
+        </table>
 
-  <h3 style="color:green;"><h3 style="font-family:verdana;">Sprachen</h3>
+        <h3>Sprachen</h3>
 
-  <table>
-    <tr>
-      <th>Sprache</th>
-      <th>Kenntnisstand</th>
-    </tr>
-    <tr>
-      <td>Deutsch</td>
-      <td>Muttersprache</td>
-    </tr>
-    <tr>
-      <td>Englisch</td>
-      <td>Sehr gute Kenntnisse</td>
-    </tr>
-    <tr>
-      <td>Spanisch</td>
-      <td>Sehr gute Kenntnisse</td>
-    </tr>
-    <tr>
-      <td>Französisch</td>
-      <td>Grundkenntnisse</td>
-    </tr>
-    <tr>
-      <td>Portugiesisch</td>
-      <td>Grundkenntnisse</td>
-    </tr>
-    <tr>
-      <td>Latein</td>
-      <td>kleines Latinum</td>
-     </tr>
-     </table>
+        <dl class="qualifications">
+            <dt>Deutsch</dt>
+            <dd>Muttersprache</dd>
+            <dt>Englisch</dt>
+            <dd>Sehr gute Kenntnisse</dd>
+            <dt>Spanisch</dt>
+            <dd>Sehr gute Kenntnisse</dd>
+            <dt>Französisch</dt>
+            <dd>Grundkenntnisse</dd>
+            <dt>Portugiesisch</dt>
+            <dd>Grundkenntnisse</dd>
+            <dt>Latein</dt>
+            <dd>kleines Latinum</d>
+        </dl>
 
-  <h3 style="color:green;"><h3 style="font-family:verdana;">Qualifikationen</h3>
+        <h3>Qualifikationen</h3>
 
-  <p>Gitarre (Seit 2005)
-  <br>
-  <p>Chorgesang (Seit 2001)
+        <ul>
+            <li>Gitarre (Seit 2005)</li>
+            <li>Chorgesang (Seit 2001)</li>
+        </ul>
 
-  <h3 style="color:green;"><h3 style="font-family:verdana;">Kenntnisse</h3>
+        <h3>Kenntnisse</h3>
 
-  <table>
-    <tr>
-      <th>EDV</th>
-      <th>Kenntnisstand</th>
-    </tr>
-   <tr>
-     <td>MS Word 2010</td>
-     <td>Gute Kenntnisse</td>
-   </tr>
-   <tr>
-     <td>MS Excel 2010</td>
-     <td>Grundkenntnisse</td>
-   </tr>
-   <tr>
-     <td>MS Powerpoint 2010</td>
-     <td>Grundkenntnisse</td>
-   </tr>
-   <tr>
-     <td>Markdown</td>
-     <td>Grundkenntnisse</td>
-    </tr>
-    </table>
-  
+        <dl class="qualifications">
+                <dt>MS Word</dt>
+                <dd>Gute Kenntnisse</dd>
+                <dt>MS Excel</dt>
+                <dd>Grundkenntnisse</dd>
+                <dt>MS Powerpoint</dt>
+                <dd>Grundkenntnisse</dd>
+                <dt>Markdown</dt>
+                <dd>Grundkenntnisse</dd>
+                <dt>HTML</dt>
+                <dd>Grundkenntnisse</dd>
+        </dl>
+    </div>
 </body>
+
 </html>
